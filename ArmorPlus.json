@@ -1,4 +1,5 @@
-"promos": {
+{
+    "promos": {
     "1.8.9-latest"     : "1.6",
     "1.8.9-recomended" : "1.6",
     "1.9-latest"     : "1.7.3",
@@ -11,3 +12,4 @@
     "1.7.2" : "Fixed Some Armor Recipes and Fixed some Bugs",
     "1.7.3" : "Added Spanish Lang Support",
   }
+}
