@@ -22,7 +22,7 @@
     "1.7.11" : "Fixed Bug with the Ender Dragon Armor",
     "1.7.12" : "Updated Bulgarian and German Language and some a quick bug fix",
     "1.7.13" : "Added Guardian Armor and some other changes",
-    "1.7.14" : "Fixed Issues https://github.com/sokratis12GR/ArmorPlus/issues/7".
+    "1.7.14" : "Fixed Issues https://github.com/sokratis12GR/ArmorPlus/issues/7",
     "1.7.15" : "Fixed many issues with servers and event handlers"
   }
 }
