@@ -3,7 +3,7 @@
     "promos": {
     "1.8.9-latest"     : "1.6",
     "1.8.9-recomended" : "1.6",
-    "1.9-latest"     : "1.7.15",
+    "1.9-latest"     : "1.8",
     "1.9-recomended" : "1.7.15"
   },
   "1.8.9" : {
@@ -23,6 +23,7 @@
     "1.7.12" : "Updated Bulgarian and German Language and some a quick bug fix",
     "1.7.13" : "Added Guardian Armor and some other changes",
     "1.7.14" : "Fixed Issues https://github.com/sokratis12GR/ArmorPlus/issues/7",
-    "1.7.15" : "Fixed many issues with servers and event handlers"
+    "1.7.15" : "Fixed many issues with servers and event handlers",
+    "1.8" : "Added The Ultimate Armor and some other changes"
   }
 }
