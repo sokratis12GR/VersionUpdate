@@ -4,7 +4,7 @@
     "1.8.9-latest"     : "1.6",
     "1.8.9-recomended" : "1.6",
     "1.9-latest"     : "1.8",
-    "1.9-recomended" : "1.7.15"
+    "1.9-recomended" : "1.8"
   },
   "1.8.9" : {
     "1.6" : "Added a version checker, New Armor Textures, Creative Tab, New 3D Armor Models, Balanced a bit the armors, changed some crafting recipes"
