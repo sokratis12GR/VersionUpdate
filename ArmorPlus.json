@@ -1,13 +1,14 @@
 {
   "homepage": "http://adf.ly/1YfdD4",
     "promos": {
-    "1.8.9-latest"     : "1.6",
-    "1.8.9-recomended" : "1.6",
+    "1.8.9-latest"     : "1.8.3-1.8.9",
+    "1.8.9-recomended" : "1.8.3-1.8.9",
     "1.9-latest"     : "1.8.3",
     "1.9-recomended" : "1.8.3"
   },
   "1.8.9" : {
-    "1.6" : "Added a version checker, New Armor Textures, Creative Tab, New 3D Armor Models, Balanced a bit the armors, changed some crafting recipes"
+    "1.6" : "Added a version checker, New Armor Textures, Creative Tab, New 3D Armor Models, Balanced a bit the armors, changed some crafting recipes",
+    "1.8.3-1.8.9" : "Updated 1.8.9 to latest version of the mod"
   },
   "1.9" : {
     "1.7.2" : "Fixed Some Armor Recipes and Fixed some Bugs",
