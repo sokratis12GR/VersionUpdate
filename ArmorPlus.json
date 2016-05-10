@@ -37,6 +37,7 @@
     "1.9.2-1.9" : "Fixed a spammy error",
     "1.9.3-1.9" : "Some Features to the config file added",
     "1.10.0-1.9" : "New Textures bug fixes and a big new feature",
-    "1.10.1-1.9" : "Some Changes and a new feature"
+    "1.10.1-1.9" : "Some Changes and a new feature",
+    "1.10.1-1.9" : "New Custom Armor (WIP) and Fixed the Flight Issue"
   }
 }
