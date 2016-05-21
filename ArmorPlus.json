@@ -3,8 +3,8 @@
     "promos": {
     "1.8.9-latest"     : "1.9.1-1.8.9",
     "1.8.9-recomended" : "1.9.1-1.8.9",
-    "1.9-latest"     : "1.13.2-1.9",
-    "1.9-recomended" : "1.13.2-1.9"
+    "1.9-latest"     : "1.13.3-1.9",
+    "1.9-recomended" : "1.13.3-1.9"
   },
   "1.8.9" : {
     "1.6" : "Added a version checker, New Armor Textures, Creative Tab, New 3D Armor Models, Balanced a bit the armors, changed some crafting recipes",
@@ -44,6 +44,7 @@
     "1.12.2-1.9" : "Manyullym Armor Recipes fixed",
     "1.13.0-1.9" : "New Armors, and some minnor changes",
     "1.13.1-1.9" : "Chainmail's Recipe changed",
-    "1.13.2-1.9" : "Quick Fix"
+    "1.13.2-1.9" : "Quick Fix",
+    "1.13.3-1.9" : "Minnor Changes, Arabic Support added and German lang updated"
   }
 }
