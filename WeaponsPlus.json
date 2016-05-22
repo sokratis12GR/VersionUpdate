@@ -1,0 +1,11 @@
+{
+  "homepage": "http://adf.ly/1YfdD4",
+    "promos": {
+    "1.9.4-latest"     : "1.1.0",
+    "1.9.4-recomended" : "1.1.0"
+  },
+  "1.9.4" : {
+    "1.0.0-ALPHA" : "Created",
+    "1.1.0" : "Some New Weapons"
+  }
+}
