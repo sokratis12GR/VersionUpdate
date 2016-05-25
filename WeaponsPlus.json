@@ -1,8 +1,8 @@
 {
   "homepage": "http://adf.ly/12020783/weaponsplus-page",
     "promos": {
-    "1.9.4-latest"     : "1.4.0",
-    "1.9.4-recomended" : "1.4.0"
+    "1.9.4-latest"     : "1.5.0",
+    "1.9.4-recomended" : "1.5.0"
   },
   "1.9.4" : {
     "1.0.0-ALPHA" : "Created",
@@ -11,6 +11,7 @@
     "1.2.0" : "Added Battle Axes and Minor Changes",
     "1.2.1" : "Added Recipes for the Battle Axes",
     "1.3.0" : "Added Bows",
-    "1.4.0" : "Now it requires ArmorPlus to work"
+    "1.4.0" : "Now it requires ArmorPlus to work",
+    "1.5.0" : "Added some Configuration settings and some information in the mod's config folder"
   }
 }
