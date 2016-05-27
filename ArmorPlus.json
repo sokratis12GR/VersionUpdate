@@ -1,11 +1,12 @@
 {
   "homepage": "http://adf.ly/1YfdD4",
     "promos": {
-    "1.9.4-latest"     : "2.0.1",
-    "1.9.4-recommended" : "2.0.1"
+    "1.9.4-latest"     : "2.1.0",
+    "1.9.4-recommended" : "2.1.0"
   },
   "1.9.4" : {
     "2.0.0" : "Ported to 1.9.4 And some Major Changes",
-    "2.0.1" : "Fix to the Configuration File and path change"
+    "2.0.1" : "Fix to the Configuration File and path change",
+    "2.1.0" : "Major Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog#2.1.0"
   }
 }
