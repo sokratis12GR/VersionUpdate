@@ -2,7 +2,7 @@
   "homepage": "http://adf.ly/12020783/weaponsplus-page",
     "promos": {
     "1.9-latest"     : "1.6.0-1.9",
-    "1.9-recommended" : "1.6.0-1.9"
+    "1.9-recommended" : "1.6.0-1.9",
     "1.9.4-latest"     : "1.6.0",
     "1.9.4-recommended" : "1.6.0"
   },
