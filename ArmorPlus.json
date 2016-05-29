@@ -3,8 +3,8 @@
     "promos": {
     "1.9-latest"     : "1.14.0-1.9",
     "1.9-recommended" : "1.14.0-1.9",
-    "1.9.4-latest"     : "2.1.1",
-    "1.9.4-recommended" : "2.1.1"
+    "1.9.4-latest"     : "2.2.0",
+    "1.9.4-recommended" : "2.2.0"
   },
   "1.9" : {
     "1.7.2" : "Fixed Some Armor Recipes and Fixed some Bugs",
@@ -45,6 +45,7 @@
     "2.0.0" : "Ported to 1.9.4 And some Major Changes",
     "2.0.1" : "Fix to the Configuration File and path change",
     "2.1.0" : "Major Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog#2.1.0",
-    "2.1.1" : "Fixed French Support"
+    "2.1.1" : "Fixed French Support",
+    "2.2.0" : "Some Balancing Changes and removed the Custom Armor"
   }
 }
