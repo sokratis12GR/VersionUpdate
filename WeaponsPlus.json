@@ -3,8 +3,8 @@
     "promos": {
     "1.9-latest"     : "1.7.0-1.9",
     "1.9-recommended" : "1.7.0-1.9",
-    "1.9.4-latest"     : "1.7.0",
-    "1.9.4-recommended" : "1.7.0"
+    "1.9.4-latest"     : "1.8.0",
+    "1.9.4-recommended" : "1.8.0"
   },
   "1.9" : {
     "1.6.0-1.9" : "Backported to 1.9, Requires ArmorPlus 1.14.0-1.9 or later",
@@ -20,6 +20,7 @@
     "1.4.0" : "Now it requires ArmorPlus to work",
     "1.5.0" : "Added some Configuration settings and some information in the mod's config folder",
     "1.6.0" : "Minor Changes, added French Support Required ArmorPlus 2.1.0 or later",
-    "1.7.0" : "Rebalanced some weapons and Fixed Item Models in third person not rendering properly"
+    "1.7.0" : "Rebalanced some weapons and Fixed Item Models in third person not rendering properly",
+    "1.8.0" : "Minor Changes, New Recipes"
   }
 }
