@@ -3,8 +3,8 @@
     "promos": {
     "1.9-latest"     : "1.14.0-1.9",
     "1.9-recommended" : "1.14.0-1.9",
-    "1.9.4-latest"     : "2.4.1",
-    "1.9.4-recommended" : "2.4.1"
+    "1.9.4-latest"     : "2.4.2",
+    "1.9.4-recommended" : "2.4.2"
   },
   "1.9" : {
     "1.7.2" : "Fixed Some Armor Recipes and Fixed some Bugs",
@@ -49,6 +49,7 @@
     "2.2.0" : "Some Balancing Changes and removed the Custom Armor",
     "2.3.0" : "Major Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#2.3.0",
     "2.4.0" : "New Armors, Creative Tab Changed",
-    "2.4.1" : "Fixed issue with Tinkers' Construct"
+    "2.4.1" : "Fixed issue with Tinkers' Construct",
+    "2.4.2" : "Fixed missing Lava Armor Texture"
   }
 }
