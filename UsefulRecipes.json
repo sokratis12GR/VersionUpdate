@@ -1,14 +1,9 @@
 {
     "promos": {
-    "1.8.9-latest"     : "1.1.0",
-    "1.8.9-recommended": "1.1.0",
-    "1.9-latest"     : "1.2",
-    "1.9-recommended" : "1.2",
+    "1.9.4-latest"     : "2.0.0",
+    "1.9.4-recommended" : "2.0.0",
   },
-  "1.8.9" : {
-    "1.1.0" : "First release of the mod",
-  },
-  "1.9" : {
-    "1.2" : "Updated to 1.9 and added some recipes"
+  "1.9.4" : {
+    "2.0.0" : Ported to 1.9.4, some recipes added some configurations and more"
   }
 }
