@@ -3,8 +3,8 @@
     "promos": {
     "1.9-latest"     : "1.14.0-1.9",
     "1.9-recommended" : "1.14.0-1.9",
-    "1.9.4-latest"     : "2.5.2",
-    "1.9.4-recommended" : "2.5.2"
+    "1.9.4-latest"     : "2.5.3",
+    "1.9.4-recommended" : "2.5.3"
   },
   "1.9" : {
     "1.7.2" : "Fixed Some Armor Recipes and Fixed some Bugs",
@@ -53,6 +53,7 @@
     "2.4.2" : "Fixed missing Lava Armor Texture",
     "2.5.0" : "Major Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#2.5.0",
     "2.5.1" : "Major Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#2.5.1",
-    "2.5.2" : "Normal Guardians now drop 1 Guardian Scale"
+    "2.5.2" : "Normal Guardians now drop 1 Guardian Scale",
+    "2.5.3" : "The Ultimate Armor is now repairable wih The Ultimate Material"
   }
 }
