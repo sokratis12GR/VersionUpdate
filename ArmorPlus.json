@@ -3,8 +3,8 @@
     "promos": {
     "1.9-latest"     : "1.14.0-1.9",
     "1.9-recommended" : "1.14.0-1.9",
-    "1.9.4-latest"     : "1.9.4-2.0.10.0",
-    "1.9.4-recommended" : "1.9.4-2.0.10.0"
+    "1.9.4-latest"     : "1.9.4-2.0.11.0",
+    "1.9.4-recommended" : "1.9.4-2.0.11.0"
   },
   "1.9" : {
     "1.7.2" : "Fixed Some Armor Recipes and Fixed some Bugs",
@@ -60,6 +60,7 @@
     "1.9.4-2.0.7.1" : "Server Crash fix & Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-2.0.7.1",
     "1.9.4-2.0.8.0" : "ToolTip Changes Depending on Configurations",
     "1.9.4-2.0.9.0" : "Added recipe for the Ender Dragon Egg",
-    "1.9.4-2.0.10.0" : "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-2.0.10.0","
+    "1.9.4-2.0.10.0" : "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-2.0.10.0",
+    "1.9.4-2.0.11.0" : "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-2.0.11.0"
   }
 }
