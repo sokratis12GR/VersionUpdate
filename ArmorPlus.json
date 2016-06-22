@@ -3,8 +3,8 @@
     "promos": {
     "1.9-latest"     : "1.14.0-1.9",
     "1.9-recommended" : "1.14.0-1.9",
-    "1.9.4-latest"     : "1.9.4-3.0.0.0",
-    "1.9.4-recommended" : "1.9.4-3.0.0.0"
+    "1.9.4-latest"     : "1.9.4-3.1.1.0",
+    "1.9.4-recommended" : "1.9.4-3.1.1.0"
   },
   "1.9" : {
     "1.7.2" : "Fixed Some Armor Recipes and Fixed some Bugs",
@@ -63,6 +63,7 @@
     "1.9.4-2.0.10.0" : "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-2.0.10.0",
     "1.9.4-2.0.11.0" : "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-2.0.11.0",
     "1.9.4-2.0.11.1" : "Quick Fix",
-    "1.9.4-3.0.0.0" : "Major Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.0.0.0"
+    "1.9.4-3.0.0.0" : "Major Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.0.0.0",
+    "1.9.4-3.1.1.0" : "Added JEI Support and some API changes"
   }
 }
