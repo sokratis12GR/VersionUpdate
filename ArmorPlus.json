@@ -32,6 +32,7 @@
     "1.9.4-3.1.1.0" : "Added JEI Support and some API changes"
   },
   "1.10" : {
-    "1.10-3.1.1.0" : "Ported to 1.10"
+    "1.10-3.1.1.0-beta" : "Ported to 1.10",
+    "1.10-3.1.1.0" : "Stablizied 1.10 Version"
   }
 }
