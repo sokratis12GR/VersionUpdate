@@ -1,8 +1,8 @@
 {
   "homepage": "http://adf.ly/1YfdD4",
     "promos": {
-    "1.9.4-latest"     : "1.9.4-3.1.1.0",
-    "1.9.4-recommended" : "1.9.4-3.1.1.0",
+    "1.9.4-latest"     : "1.9.4-3.1.2.0",
+    "1.9.4-recommended" : "1.9.4-3.1.2.0",
     "1.10-latest"     : "1.10-3.1.2.0",
     "1.10-recommended" : "1.10-3.1.2.0"
   },
@@ -34,6 +34,7 @@
   },
   "1.10" : {
     "1.10-3.1.1.0-beta" : "Ported to 1.10",
-    "1.10-3.1.1.0" : "Stablizied 1.10 Version"
+    "1.10-3.1.1.0" : "Stablizied 1.10 Version",
+    "1.10-3.1.2.0" : "Changed how Commands Work and Updated zh_CN.lang"
   }
 }
