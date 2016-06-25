@@ -2,7 +2,7 @@
   "homepage": "http://adf.ly/1YfdD4",
     "promos": {
     "1.9.4-latest"     : "1.9.4-3.1.3.0",
-    "1.9.4-recommended" : "1.9.4-3.1.3.0",
+    "1.9.4-recommended" : "1.9.4-3.1.3.0"
   },
   "1.9.4" : {
     "2.0.0" : "Ported to 1.9.4 And some Major Changes",
