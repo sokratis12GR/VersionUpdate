@@ -1,10 +1,10 @@
 {
   "homepage": "http://adf.ly/1YfdD4",
     "promos": {
-    "1.9.4-latest"     : "1.9.4-3.1.4.0",
-    "1.9.4-recommended" : "1.9.4-3.1.4.0",
-    "1.10-latest"     : "1.9.4-3.1.4.0",
-    "1.10-recommended" : "1.9.4-3.1.4.0"
+    "1.9.4-latest"     : "1.9.4-3.1.5.0",
+    "1.9.4-recommended" : "1.9.4-3.1.5.0",
+    "1.10-latest"     : "1.9.4-3.1.5.0",
+    "1.10-recommended" : "1.9.4-3.1.5.0"
   },
   "1.9.4" : {
     "2.0.0" : "Ported to 1.9.4 And some Major Changes",
@@ -32,10 +32,12 @@
     "1.9.4-3.1.1.0" : "Added JEI Support and some API changes",
     "1.9.4-3.1.2.0" : "Changed how Commands Work and Updated zh_CN.lang",
     "1.9.4-3.1.3.0" : "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.1.3.0",
-    "1.9.4-3.1.4.0" : "Added Support for 1.10"
+    "1.9.4-3.1.4.0" : "Added Support for 1.10",
+    "1.9.4-3.1.5.0" : "Armor Forge Recipe Changed and New Texture for the Ultimate Armor"
   },
   "1.10" : {
-    "1.9.4-3.1.4.0" : "Added Support for 1.10"
+    "1.9.4-3.1.4.0" : "Added Support for 1.10",
+    "1.9.4-3.1.5.0" : "Armor Forge Recipe Changed and New Texture for the Ultimate Armor"
   }  
   
 }
