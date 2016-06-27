@@ -1,14 +1,10 @@
 {
   "homepage": "http://adf.ly/12020783/weaponsplus-page",
     "promos": {
-    "1.9-latest"     : "1.7.0-1.9",
-    "1.9-recommended" : "1.7.0-1.9",
-    "1.9.4-latest"     : "1.9.4-1.0.9.0",
-    "1.9.4-recommended" : "1.9.4-1.0.9.0"
-  },
-  "1.9" : {
-    "1.6.0-1.9" : "Backported to 1.9, Requires ArmorPlus 1.14.0-1.9 or later",
-    "1.7.0-1.9" : "Rebalanced some weapons and Fixed Item Models in third person not rendering properly"
+    "1.9.4-latest"     : "1.9.4-2.0.0.0",
+    "1.9.4-recommended" : "1.9.4-2.0.0.0",
+    "1.10-latest"     : "1.9.4-2.0.0.0",
+    "1.10-recommended" : "1.9.4-2.0.0.0"
   },
   "1.9.4" : {
     "1.0.0-ALPHA" : "Created",
@@ -22,6 +18,10 @@
     "1.6.0" : "Minor Changes, added French Support Required ArmorPlus 2.1.0 or later",
     "1.7.0" : "Rebalanced some weapons and Fixed Item Models in third person not rendering properly",
     "1.8.0" : "Minor Changes, New Recipes",
-    "1.9.4-1.0.9.0" : "Major Changes Here is a list of them: https://ftb.gamepedia.com/WeaponsPlus/Changelog_(1.9.4)#1.9.4-1.0.9.0"
+    "1.9.4-1.0.9.0" : "Minor Changes Here is a list of them: https://ftb.gamepedia.com/WeaponsPlus/Changelog_(1.9.4)#1.9.4-1.0.9.0",
+    "1.9.4-2.0.0.0" : "Major Changes here is a list of them: https://ftb.gamepedia.com/WeaponsPlus/Changelog_(1.9.4)#1.9.4-2.0.0.0"
+  },
+  "1.10" : {
+    "1.9.4-2.0.0.0" : "Major Changes here is a list of them: https://ftb.gamepedia.com/WeaponsPlus/Changelog_(1.9.4)#1.9.4-2.0.0.0"
   }
 }
