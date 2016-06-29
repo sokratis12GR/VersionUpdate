@@ -1,12 +1,12 @@
 {
   "homepage": "http://adf.ly/1YfdD4",
     "promos": {
-    "1.9.4-latest"     : "1.9.4-3.1.6.0",
-    "1.9.4-recommended" : "1.9.4-3.1.6.0",
-    "1.10-latest"     : "1.9.4-3.1.6.0",
-    "1.10-recommended" : "1.9.4-3.1.6.0",
-    "1.10.2-latest"     : "1.9.4-3.1.6.0",
-    "1.10.2-recommended" : "1.9.4-3.1.6.0"
+    "1.9.4-latest"     : "1.9.4-3.1.7.0",
+    "1.9.4-recommended" : "1.9.4-3.1.7.0",
+    "1.10-latest"     : "1.9.4-3.1.7.0",
+    "1.10-recommended" : "1.9.4-3.1.7.0",
+    "1.10.2-latest"     : "1.9.4-3.1.7.0",
+    "1.10.2-recommended" : "1.9.4-3.1.7.0"
   },
   "1.9.4" : {
     "2.0.0" : "Ported to 1.9.4 And some Major Changes",
@@ -39,7 +39,8 @@
     "1.9.4-3.1.5.1" : "Fixed Ghost Item ArmorPlus Book",
     "1.9.4-3.1.5.2" : "Quick Fix",
     "1.9.4-3.1.5.3" : "Minor Bug Fixes",
-    "1.9.4-3.1.6.0" : "Added Support for 1.10.2"
+    "1.9.4-3.1.6.0" : "Added Support for 1.10.2",
+    "1.9.4-3.1.7.0" : "Made Guardians to drop 0-1 Guardian Scales"
   },
   "1.10" : {
     "1.9.4-3.1.4.0" : "Added Support for 1.10",
@@ -47,9 +48,11 @@
     "1.9.4-3.1.5.1" : "Fixed Ghost Item ArmorPlus Book",
     "1.9.4-3.1.5.2" : "Quick Fix",
     "1.9.4-3.1.5.3" : "Minor Bug Fixes",
-    "1.9.4-3.1.6.0" : "Added Support for 1.10.2"
+    "1.9.4-3.1.6.0" : "Added Support for 1.10.2",
+    "1.9.4-3.1.7.0" : "Made Guardians to drop 0-1 Guardian Scales"
   },
   "1.10.2" : {
-    "1.9.4-3.1.6.0" : "Added Support for 1.10.2"
+    "1.9.4-3.1.6.0" : "Added Support for 1.10.2",
+    "1.9.4-3.1.7.0" : "Made Guardians to drop 0-1 Guardian Scales"
   }
 }
