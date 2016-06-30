@@ -54,14 +54,14 @@
     "1.9.4-3.1.6.0" : "Added Support for 1.10.2",
     "1.9.4-3.1.7.0" : "Made Guardians to drop 0-1 Guardian Scales",
     "1.9.4-3.1.8.0" : "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.1.8.0",
-    "1.9.4-3.1.9.0" : "Added a blacklist config, so you can disable the listed items to not be given by the "The Gift Of The Gods" (Limitation for now are 50 Items)",
+    "1.9.4-3.1.9.0" : "Added a blacklist config, so you can disable the listed items to not be given by the \"The Gift Of The Gods\" (Limitation for now are 50 Items)",
     "1.9.4-3.1.9.1" : "Quick Fix"
   },
   "1.10.2" : {
     "1.9.4-3.1.6.0" : "Added Support for 1.10.2",
     "1.9.4-3.1.7.0" : "Made Guardians to drop 0-1 Guardian Scales",    
     "1.9.4-3.1.8.0" : "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.1.8.0",
-    "1.9.4-3.1.9.0" : "Added a blacklist config, so you can disable the listed items to not be given by the "The Gift Of The Gods" (Limitation for now are 50 Items)",
+    "1.9.4-3.1.9.0" : "Added a blacklist config, so you can disable the listed items to not be given by the \"The Gift Of The Gods\" (Limitation for now are 50 Items)",
     "1.9.4-3.1.9.1" : "Quick Fix"
   }
 }
