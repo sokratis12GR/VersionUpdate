@@ -3,12 +3,12 @@
     "promos": {
         "1.9-latest": "2.0.0",
         "1.9-recommended": "2.0.0",
-        "1.9.4-latest"     : "1.9.4-4.0.0.0",
-        "1.9.4-recommended" : "1.9.4-4.0.0.0",
-        "1.10-latest"     : "1.9.4-4.0.0.0",
-        "1.10-recommended" : "1.9.4-4.0.0.0",
-        "1.10.2-latest"     : "1.9.4-4.0.0.0",
-        "1.10.2-recommended" : "1.9.4-4.0.0.0"
+        "1.9.4-latest"     : "1.9.4-4.0.1.0",
+        "1.9.4-recommended" : "1.9.4-4.0.1.0",
+        "1.10-latest"     : "1.9.4-4.0.1.0",
+        "1.10-recommended" : "1.9.4-4.0.1.0",
+        "1.10.2-latest"     : "1.9.4-4.0.1.0",
+        "1.10.2-recommended" : "1.9.4-4.0.1.0"
     },
     "1.9": {
         "1.7.2": "Fixed Some Armor Recipes and Fixed some Bugs","1.7.3": "Added Spanish Lang Support","1.7.4": "Fixed Version Checker",  "1.7.5": "Added Super Star Armor and many more changes","1.7.6": "Added Spanish translations for the latest update","1.7.7": "Added German Language Support","1.7.8": "Fixed Achievement Bug","1.7.9": "Added Armor Tooltips","1.7.10": "Added Ender Dragon Armor and some bug fixes","1.7.11": "Fixed Bug with the Ender Dragon Armor","1.7.12": "Updated Bulgarian and German Language and some a quick bug fix","1.7.13": "Added Guardian Armor and some other changes","1.7.14": "Fixed Issues https://github.com/sokratis12GR/ArmorPlus/issues/7","1.7.15": "Fixed many issues with servers and event handlers","1.8": "Added The Ultimate Armor and some other changes","1.8.1": "Fixed some Issues and some Balancing changes","1.8.2": "Fixed some bugs and some Texture Changes","1.8.3": "Fixed some Issues with other mod's flight",
@@ -19,14 +19,17 @@
         "2.0.0": "Ported to 1.9.4 And some Major Changes","2.0.1": "Fix to the Configuration File and path change","2.1.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#2.1.0","2.1.1": "Fixed French Support","2.2.0": "Some Balancing Changes and removed the Custom Armor","2.3.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#2.3.0","2.4.0": "New Armors, Creative Tab Changed", "2.4.1": "Fixed issue with Tinkers' Construct","2.4.2": "Fixed missing Lava Armor Texture","2.5.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#2.5.0","2.5.1": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#2.5.1","2.5.2": "Normal Guardians now drop 1 Guardian Scale","2.5.3": "The Ultimate Armor is now repairable wih The Ultimate Material",
         "1.9.4-2.0.6.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-2.0.6.0","1.9.4-2.0.7.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-2.0.7.0","1.9.4-2.0.7.1": "Server Crash fix \u0026 Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-2.0.7.1","1.9.4-2.0.8.0": "ToolTip Changes Depending on Configurations","1.9.4-2.0.9.0": "Added recipe for the Ender Dragon Egg","1.9.4-2.0.10.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-2.0.10.0","1.9.4-2.0.11.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-2.0.11.0","1.9.4-2.0.11.1": "Quick Fix",
         "1.9.4-3.0.0.0": "Major Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.0.0.0","1.9.4-3.1.1.0": "Added JEI Support and some API changes","1.9.4-3.1.2.0": "Changed how Commands Work and Updated zh_CN.lang","1.9.4-3.1.3.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.1.3.0","1.9.4-3.1.4.0": "Added Support for 1.10","1.9.4-3.1.5.0": "Armor Forge Recipe Changed and New Texture for the Ultimate Armor","1.9.4-3.1.5.1": "Fixed Ghost Item ArmorPlus Book","1.9.4-3.1.5.2": "Quick Fix","1.9.4-3.1.5.3": "Minor Bug Fixes","1.9.4-3.1.6.0": "Added Support for 1.10.2","1.9.4-3.1.7.0": "Made Guardians to drop 0-1 Guardian Scales","1.9.4-3.1.8.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.1.8.0","1.9.4-3.1.9.0": "Added a blacklist config, so you can disable the listed items to not be given by the \"The Gift Of The Gods\" (Limitation for now are 50 Items)","1.9.4-3.1.9.1": "Quick Fix","1.9.4-3.1.10.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.1.10.0","1.9.4-3.1.11.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.1.11.0",
-        "1.9.4-4.0.0.0": "Major Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.0.0"
+        "1.9.4-4.0.0.0": "Major Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.0.0",
+        "1.9.4-4.0.1.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.1.0"
     },
     "1.10": {
         "1.9.4-3.1.4.0": "Added Support for 1.10","1.9.4-3.1.5.0": "Armor Forge Recipe Changed and New Texture for the Ultimate Armor","1.9.4-3.1.5.1": "Fixed Ghost Item ArmorPlus Book","1.9.4-3.1.5.2": "Quick Fix","1.9.4-3.1.5.3": "Minor Bug Fixes","1.9.4-3.1.6.0": "Added Support for 1.10.2","1.9.4-3.1.7.0": "Made Guardians to drop 0-1 Guardian Scales","1.9.4-3.1.8.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.1.8.0","1.9.4-3.1.9.0": "Added a blacklist config, so you can disable the listed items to not be given by the \"The Gift Of The Gods\" (Limitation for now are 50 Items)","1.9.4-3.1.9.1": "Quick Fix","1.9.4-3.1.10.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.1.10.0","1.9.4-3.1.11.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.1.11.0",
-        "1.9.4-4.0.0.0": "Major Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.0.0"
+        "1.9.4-4.0.0.0": "Major Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.0.0",
+        "1.9.4-4.0.1.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.1.0"
     },
     "1.10.2": {
         "1.9.4-3.1.6.0": "Added Support for 1.10.2","1.9.4-3.1.7.0": "Made Guardians to drop 0-1 Guardian Scales","1.9.4-3.1.8.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.1.8.0","1.9.4-3.1.9.0": "Added a blacklist config, so you can disable the listed items to not be given by the \"The Gift Of The Gods\" (Limitation for now are 50 Items)","1.9.4-3.1.9.1": "Quick Fix","1.9.4-3.1.10.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.1.10.0","1.9.4-3.1.11.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-3.1.11.0",
-        "1.9.4-4.0.0.0": "Major Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.0.0"
+        "1.9.4-4.0.0.0": "Major Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.0.0",
+        "1.9.4-4.0.1.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.1.0"
     }
 }
