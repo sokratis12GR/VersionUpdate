@@ -3,12 +3,12 @@
 	"promos": {
 		"1.9-latest": "2.0.0",
 		"1.9-recommended": "2.0.0",
-		"1.9.4-latest": "1.9.4-4.0.5.0",
-		"1.9.4-recommended": "1.9.4-4.0.5.0",
-		"1.10-latest": "1.9.4-4.0.5.0",
-		"1.10-recommended": "1.9.4-4.0.5.0",
-		"1.10.2-latest": "1.9.4-4.0.5.0",
-		"1.10.2-recommended": "1.9.4-4.0.5.0"
+		"1.9.4-latest": "1.9.4-4.0.6.0",
+		"1.9.4-recommended": "1.9.4-4.0.6.0",
+		"1.10-latest": "1.9.4-4.0.6.0",
+		"1.10-recommended": "1.9.4-4.0.6.0",
+		"1.10.2-latest": "1.9.4-4.0.6.0",
+		"1.10.2-recommended": "1.9.4-4.0.6.0"
 	},
 	"1.9": {
 		"1.7.2": "Fixed Some Armor Recipes and Fixed some Bugs",
@@ -89,7 +89,8 @@
 		"1.9.4-4.0.2.0": "Added World Generation Settings in the Config File",
 		"1.9.4-4.0.3.0": "Added a key bind option to enable Night Vision for The Ultimate Armor",
 		"1.9.4-4.0.4.0": "Removed the key bind option to enable Night Vision for The Ultimate Armor",
-		"1.9.4-4.0.5.0": "Default Gamemode changed to Expert, and some other Minor Change Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.5.0"
+		"1.9.4-4.0.5.0": "Default Gamemode changed to Expert, and some other Minor Change Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.5.0",
+		"1.9.4-4.0.6.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.6.0"
 	},
 	"1.10": {
 		"1.9.4-3.1.4.0": "Added Support for 1.10",
@@ -109,7 +110,8 @@
 		"1.9.4-4.0.2.0": "Added World Generation Settings in the Config File",
 		"1.9.4-4.0.3.0": "Added a key bind option to enable Night Vision for The Ultimate Armor",
 		"1.9.4-4.0.4.0": "Removed the key bind option to enable Night Vision for The Ultimate Armor",
-		"1.9.4-4.0.5.0": "Default Gamemode changed to Expert, and some other Minor Change Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.5.0"
+		"1.9.4-4.0.5.0": "Default Gamemode changed to Expert, and some other Minor Change Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.5.0",
+		"1.9.4-4.0.6.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.6.0"
 	},
 	"1.10.2": {
 		"1.9.4-3.1.6.0": "Added Support for 1.10.2",
@@ -124,6 +126,7 @@
 		"1.9.4-4.0.2.0": "Added World Generation Settings in the Config File",
 		"1.9.4-4.0.3.0": "Added a key bind option to enable Night Vision for The Ultimate Armor",
 		"1.9.4-4.0.4.0": "Removed the key bind option to enable Night Vision for The Ultimate Armor",
-		"1.9.4-4.0.5.0": "Default Gamemode changed to Expert, and some other Minor Change Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.5.0"
+		"1.9.4-4.0.5.0": "Default Gamemode changed to Expert, and some other Minor Change Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.5.0",
+		"1.9.4-4.0.6.0": "Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.0.6.0"
 	}
 }
