@@ -3,12 +3,12 @@
 	"promos": {
 		"1.9-latest": "2.0.0",
 		"1.9-recommended": "2.0.0",
-		"1.9.4-latest": "1.9.4-4.1.8.1",
-		"1.9.4-recommended": "1.9.4-4.1.8.1",
-		"1.10-latest": "1.9.4-4.1.8.1",
-		"1.10-recommended": "1.9.4-4.1.8.1",
-		"1.10.2-latest": "1.9.4-4.1.8.1",
-		"1.10.2-recommended": "1.9.4-4.1.8.1"
+		"1.9.4-latest": "1.9.4-4.1.9.0",
+		"1.9.4-recommended": "1.9.4-4.1.9.0",
+		"1.10-latest": "1.9.4-4.1.9.0",
+		"1.10-recommended": "1.9.4-4.1.9.0",
+		"1.10.2-latest": "1.9.4-4.1.9.0",
+		"1.10.2-recommended": "1.9.4-4.1.9.0"
 	},
 	"1.9": {
 		"1.7.2": "Fixed Some Armor Recipes and Fixed some Bugs",
@@ -98,7 +98,8 @@
 		"1.9.4-4.1.7.3": "Fixed Steel Ingot still registering as armorplus:metal_ingot",
 		"1.9.4-4.1.7.4": "Fixed Steel Ore & Block of Steel render with Missing Textures",
 		"1.9.4-4.1.8.0": "Major OreDict Update, and some other Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.1.8.0",
-		"1.9.4-4.1.8.1": "Fixed Block of Steel being uncraftable"
+		"1.9.4-4.1.8.1": "Fixed Block of Steel being uncraftable",
+		"1.9.4-4.1.9.0": "Fixed a bug with the Steel Armor, and added the Dev Armor"
 	},
 	"1.10": {
 		"1.9.4-3.1.4.0": "Added Support for 1.10",
@@ -127,7 +128,8 @@
 		"1.9.4-4.1.7.3": "Fixed Steel Ingot still registering as armorplus:metal_ingot",
 		"1.9.4-4.1.7.4": "Fixed Steel Ore & Block of Steel render with Missing Textures",
 		"1.9.4-4.1.8.0": "Major OreDict Update, and some other Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.1.8.0",
-		"1.9.4-4.1.8.1": "Fixed Block of Steel being uncraftable"
+		"1.9.4-4.1.8.1": "Fixed Block of Steel being uncraftable",
+		"1.9.4-4.1.9.0": "Fixed a bug with the Steel Armor, and added the Dev Armor"
 	},
 	"1.10.2": {
 		"1.9.4-3.1.6.0": "Added Support for 1.10.2",
@@ -151,6 +153,7 @@
 		"1.9.4-4.1.7.3": "Fixed Steel Ingot still registering as armorplus:metal_ingot",
 		"1.9.4-4.1.7.4": "Fixed Steel Ore & Block of Steel render with Missing Textures",
 		"1.9.4-4.1.8.0": "Major OreDict Update, and some other Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.1.8.0",
-		"1.9.4-4.1.8.1": "Fixed Block of Steel being uncraftable"
+		"1.9.4-4.1.8.1": "Fixed Block of Steel being uncraftable",
+		"1.9.4-4.1.9.0": "Fixed a bug with the Steel Armor, and added the Dev Armor"
 	}
 }
