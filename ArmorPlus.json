@@ -7,8 +7,8 @@
 		"1.9.4-recommended": "1.9.4-4.1.9.1",
 		"1.10-latest": "1.9.4-4.1.9.1",
 		"1.10-recommended": "1.9.4-4.1.9.1",
-		"1.10.2-latest": "1.9.4-4.1.9.1",
-		"1.10.2-recommended": "1.9.4-4.1.9.1"
+		"1.10.2-latest": "1.10.2-5.0.0.0",
+		"1.10.2-recommended": "1.10.2-5.0.0.0"
 	},
 	"1.9": {
 		"1.7.2": "Fixed Some Armor Recipes and Fixed some Bugs",
@@ -157,6 +157,7 @@
 		"1.9.4-4.1.8.0": "Major OreDict Update, and some other Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.1.8.0",
 		"1.9.4-4.1.8.1": "Fixed Block of Steel being uncraftable",
 		"1.9.4-4.1.9.0": "Fixed a bug with the Steel Armor, and added the Dev Armor",
-		"1.9.4-4.1.9.1": "Fixed Ardite Armor's Effect"
+		"1.9.4-4.1.9.1": "Fixed Ardite Armor's Effect",
+		"1.10.2-5.0.0.0": "Major Updates, ArmorPlus now requires SokratisCore in order to work and 1.10.2 support only"
 	}
 }
