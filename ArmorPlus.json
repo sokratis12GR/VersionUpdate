@@ -3,12 +3,12 @@
 	"promos": {
 		"1.9-latest": "2.0.0",
 		"1.9-recommended": "2.0.0",
-		"1.9.4-latest": "1.9.4-4.1.9.1",
-		"1.9.4-recommended": "1.9.4-4.1.9.1",
-		"1.10-latest": "1.9.4-4.1.9.1",
-		"1.10-recommended": "1.9.4-4.1.9.1",
-		"1.10.2-latest": "1.10.2-5.0.5.0",
-		"1.10.2-recommended": "1.10.2-5.0.5.0"
+		"1.9.4-latest": "1.10.2-6.0.0.1",
+		"1.9.4-recommended": "1.10.2-6.0.0.1",
+		"1.10-latest": "1.10.2-6.0.0.1",
+		"1.10-recommended": "1.10.2-6.0.0.1",
+		"1.10.2-latest": "1.10.2-6.0.0.1",
+		"1.10.2-recommended": "1.10.2-6.0.0.1"
 	},
 	"1.9": {
 		"1.7.2": "Fixed Some Armor Recipes and Fixed some Bugs",
@@ -100,7 +100,10 @@
 		"1.9.4-4.1.8.0": "Major OreDict Update, and some other Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.1.8.0",
 		"1.9.4-4.1.8.1": "Fixed Block of Steel being uncraftable",
 		"1.9.4-4.1.9.0": "Fixed a bug with the Steel Armor, and added the Dev Armor",
-		"1.9.4-4.1.9.1": "Fixed Ardite Armor's Effect"
+		"1.9.4-4.1.9.1": "Fixed Ardite Armor's Effect",
+		"1.10.2-6.0.0.0": "Major Update for more information https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.10.2)#1.9.4-6.0.0.0",
+		"1.10.2-6.0.0.1": "Fixed some issues with the world gen, added a config option to enable/disable the Ultimate Armor's DeBuffs"
+
 	},
 	"1.10": {
 		"1.9.4-3.1.4.0": "Added Support for 1.10",
@@ -131,7 +134,9 @@
 		"1.9.4-4.1.8.0": "Major OreDict Update, and some other Minor Changes Here is a list of them: https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.9.4)#1.9.4-4.1.8.0",
 		"1.9.4-4.1.8.1": "Fixed Block of Steel being uncraftable",
 		"1.9.4-4.1.9.0": "Fixed a bug with the Steel Armor, and added the Dev Armor",
-		"1.9.4-4.1.9.1": "Fixed Ardite Armor's Effect"
+		"1.9.4-4.1.9.1": "Fixed Ardite Armor's Effect",
+		"1.10.2-6.0.0.0": "Major Update for more information https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.10.2)#1.9.4-6.0.0.0",
+		"1.10.2-6.0.0.1": "Fixed some issues with the world gen, added a config option to enable/disable the Ultimate Armor's DeBuffs"
 	},
 	"1.10.2": {
 		"1.9.4-3.1.6.0": "Added Support for 1.10.2",
@@ -160,10 +165,13 @@
 		"1.9.4-4.1.9.1": "Fixed Ardite Armor's Effect",
 		"1.10.2-5.0.0.0": "Major Updates, ArmorPlus now requires SokratisCore in order to work and 1.10.2 support only",
 		"1.10.2-5.0.1.0": "Some Tweaks here and there, mostly on the config file, now can be found under config/armorplus.cfg",
-		"1.10.2-5.0.2.0": "Changed How still works entirely for more information https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.10.2)#1.9.4-5.0.2.0",
+		"1.10.2-5.0.2.0": "Changed How steel works entirely for more information https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.10.2)#1.9.4-5.0.2.0",
 		"1.10.2-5.0.3.0": "ArmorPlus code completly rewritten",
 		"1.10-2.5.0.3.1": "Fixed Coal Armor named as Lapis",
 		"1.10.2-5.0.4.0": "Tweaked the config file, updated German Translations",
-		"1.10.2-5.0.5.0": "Integration with WeaponsPlus, some minor fixes and some tweaks"
+		"1.10.2-5.0.5.0": "Integration with WeaponsPlus, some minor fixes and some tweaks",
+		"1.10.2-5.0.5.1": "Fixed ArmorPlus' GUI not opening",
+		"1.10.2-6.0.0.0": "Major Update for more information https://ftb.gamepedia.com/ArmorPlus/Changelog_(1.10.2)#1.9.4-6.0.0.0",
+		"1.10.2-6.0.0.1": "Fixed some issues with the world gen, added a config option to enable/disable the Ultimate Armor's DeBuffs"
 	}
 }
